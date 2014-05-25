@@ -1,7 +1,7 @@
 {
     "name": "yuav/php-aria2",
     "type": "PHP",
-    "description": "Handle asset dependencies with bower",
+    "description": "PHP interface for the JSON-RPC of Aria2",
     "keywords": ["aria2", "download manager", "rpc-json"],
     "license": "MIT",
     "minimum-stability": "dev",
