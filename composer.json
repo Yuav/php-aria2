@@ -1,0 +1,25 @@
+{
+    "name": "yuav/php-aria2",
+    "type": "PHP",
+    "description": "Handle asset dependencies with bower",
+    "keywords": ["aria2", "download manager", "rpc-json"],
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Jon Skarpeteig",
+            "email": "jon.skarpeteig@gmail.com",
+            "homepage": "https://github.com/Yuav"
+        },
+        {
+            "name": "shiny",
+            "homepage": "http://dev.meettea.com/"
+        }
+    ],
+    "requires": {
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-0": { "": "" }
+    }
+}
