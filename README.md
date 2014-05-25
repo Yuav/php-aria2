@@ -25,7 +25,7 @@ the php-aria2 is simple and just 31 lines.
 	var_dump($aria2->removeDownloadResult('1'));
 	//and more ...
 
-you can read  [http://aria2.sourceforge.net/manual/en/html/aria2c.html#rpc-interface](the the document of aria2)
+you can read [the the document of aria2](http://aria2.sourceforge.net/manual/en/html/aria2c.html#rpc-interface)
 
 ### Download a File
 
@@ -33,7 +33,7 @@ you can read  [http://aria2.sourceforge.net/manual/en/html/aria2c.html#rpc-inter
 		'dir'=>'/tmp',
 		)));
 
-[http://aria2.sourceforge.net/manual/en/html/aria2c.html#input-file](More Options is Here)
+[More Options is Here](http://aria2.sourceforge.net/manual/en/html/aria2c.html#input-file)
 
 ### Returned Data Examples
 *Can't Download*
